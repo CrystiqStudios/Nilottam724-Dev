@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nilottam724-Dev
+- 👋 Hi, I’m []
 - 👀 I’m interested in Software development
 - 🌱 Developing apps for Android in the Samsung Galaxy Store
 - 💞️ NO COLLAB
